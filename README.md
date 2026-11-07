@@ -1,1 +1,16 @@
-# animated-gradient-ring-loader-with-html-css-pure-css-spinner
+# Animated Gradient Ring Loader with HTML & CSS 🔄 | Pure CSS Spinner
+
+A frontend demo created with CodeMotion.
+
+## Files
+
+- `index.html`
+- `style.css` — authored CSS
+
+## Authoring
+
+CodeMotion exports the HTML editor as body content and generates the document shell and relative file links automatically.
+
+## Run locally
+
+Download or clone the repository and open `index.html` in a browser.
